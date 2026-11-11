@@ -1,6 +1,7 @@
 # JulesExportScript
 Quirky way to say goodbye
 
+## For full session activity export, see [export_everything](export_everything/README.md)
 
 # How to fill the memory script
 1. Open an active jules session in a browser
